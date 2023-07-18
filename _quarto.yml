@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Local 21HD"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: contracts.qmd
+        text: Contracts
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
