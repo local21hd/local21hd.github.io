@@ -2,7 +2,11 @@
 title: "Home"
 ---
 
-### About
+## [Know your rights!](https://www.nlrb.gov/about-nlrb/rights-we-protect/your-rights)
+
+Our [contract(s)](contracts.qmd) specify most our the rules related to our pay, benefits, and working conditions. Additional rights are enshrined by local, state, and [federal law](https://www.nlrb.gov/about-nlrb/rights-we-protect/your-rights). Pay specific attention to [Weingarten rights](https://www.nlrb.gov/about-nlrb/rights-we-protect/your-rights/weingarten-rights) which is the right to union representation during certain types of meetings with management. If you are ever unsure about your rights, please let a member of the L21HD leadership team know.
+
+## About
 
 Local 21HD is a union of epidemiologists, disease research investigation specialists, social research scientists, psychiatric evaluation specialists, and environmental scientists working at Public Health - Seattle & King County.
 
@@ -10,6 +14,24 @@ Local 21HD is a union of epidemiologists, disease research investigation special
 
 ### [Enroll now!](https://www.secureinput.org/applicants/AppBegin)
 
-### Contact Information
+## Contact Information
 
 union\@local21hd.org
+
+## Union Leadership
+
+Staff Representative: Suzette Dickerson - suzetted\@council2.com
+
+President: Daniel Casey - president\@local21hd.org
+
+Vice-President: Lawrence Lee
+
+Secretary: Jessica Oda
+
+Treasurer: Ron Buie
+
+DRIS Steward: Tim Rogharr
+
+PES Steward: Paul Gulick
+
+## 
