@@ -10,6 +10,8 @@ website:
         text: Home
       - href: contracts.qmd
         text: Contracts
+      - href: bargaining.qmd
+        text: Bargaining
 
 format:
   html:
