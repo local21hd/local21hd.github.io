@@ -6,6 +6,6 @@ title: "Contracts"
 
 [Coalition Labor Agreement](docs/000CLA0125_signed.pdf)
 
-[Local21HD Specific Agreement/Appendix](docs/070CLA0125_signed.pdf)
+[Local21HD Specific Agreement/Appendix](docs/070CLA0125.pdf)
 
 This contract is active from 01/01/2026 - 12/31/2028.
