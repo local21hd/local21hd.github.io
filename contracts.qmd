@@ -4,8 +4,8 @@ title: "Contracts"
 
 ### Current Contracts
 
-[Coalition Labor Agreement](https://kingcounty.gov/~/media/depts/executive/labor-relations/documents/contracts/Final_CLA2021-2024.ashx)
+[Coalition Labor Agreement](docs/000CLA0125_signed.pdf)
 
-[Local21HD Specific Agreement/Appendix](https://kingcounty.gov/~/media/depts/executive/labor-relations/documents/contracts/Final_070CLAC0122.ashx)
+[Local21HD Specific Agreement/Appendix](docs/070CLA0125_signed.pdf)
 
-This contract began 01/01/2021 and was initially expected to end on 12/31/2024. In 2024 the union extended the contract for one year. The new end date is 12/31/2025.
+This contract is active from 01/01/2026 - 12/31/2028.
